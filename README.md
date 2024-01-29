@@ -27,13 +27,13 @@ README.md: Provides detailed instructions on setting up and running the project 
 
 ## Getting Started:
 
-**Clone the repository: git clone https://github.com/vahabrajabi/monster-rolodex.git
+**Clone the repository**: git clone https://github.com/vahabrajabi/monster-rolodex.git
 
-Navigate to the project directory: cd monster-rolodex
+**Navigate to the project directory**: cd monster-rolodex
 
-**Install dependencies: npm install
+**Install dependencies**: npm install
 
-**Run the development server: npm start
+**Run the development server**: npm start
 
 ## Contributing:
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
